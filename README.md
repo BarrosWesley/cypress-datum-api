@@ -1,4 +1,4 @@
-# testes-automatizado-de-API
+# testes-automatizados-de-API
 Repositório criado para o projeto PagoNXT Getnet
 
 
@@ -12,6 +12,7 @@ Antes de executar os testes, certifique-se de ter o seguinte instalado em sua m�
 
 - [Node.js](https://nodejs.org) (versão 12 ou superior)
 - [Cypress](https://www.cypress.io) (instalado globalmente ou localmente no projeto, versão 12.12 ou superior)
+- [JDK](https://www.oracle.com/java/technologies/downloads/) - para executar o allure report
 
 ## Configuração
 
@@ -51,6 +52,7 @@ Os relatórios de testes são gerados automaticamente pelo Cypress e estão loca
 
 ![Alt text](image.png)
 
+![Alt text](image-1.png)
 
 ## Suporte
 Se você encontrar algum problema ou tiver alguma dúvida, sinta-se à vontade para abrir uma issue neste repositório.
