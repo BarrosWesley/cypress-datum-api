@@ -32,11 +32,10 @@ Siga as etapas abaixo para configurar e executar os testes:
     ```bash
     npm install
 
-4. Inicie o Cypress:
+4. Execute os testes:
     ```bash
-    npx cypress open
+    npm run test
 
-No Cypress Test Runner, clique no arquivo de teste de sua preferência para executá-lo.
 
 ## Estrutura do Projeto
 O diretório cypress/e2e estão os arquivos de teste.
@@ -50,6 +49,7 @@ Para gerar os relatórios se faz necessário a JDK do java e o comando para gera
 
 Os relatórios de testes são gerados automaticamente pelo Cypress e estão localizados no diretório allure-results.
 
+![Alt text](image.png)
 
 
 ## Suporte
